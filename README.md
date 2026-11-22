@@ -7,7 +7,7 @@
 - 🔭 Currently **Mobile Developer at Code Craft** (remote)
 - 🌍 Open to Flutter roles & freelance projects in **Egypt and the Gulf**
 - 🖥️ Portfolio: **[mohamedelabassy.github.io/portfolio](https://mohamedelabassy.github.io/portfolio)**
-- 📄 CV: **[Download PDF](./Mohamed-Elabasy-Flutter-Developer-CV.pdf)**
+- 📄 CV: **[Download PDF](https://github.com/mohamedelabassy/portfolio/releases/download/intro-videos/Mohamed-Elabasy-Flutter-Developer-CV.pdf)**
 - 📫 mohamedelabasy241@gmail.com · [LinkedIn](https://www.linkedin.com/in/mohamed-elabasy-170b0936a)
 
 ## Published apps
